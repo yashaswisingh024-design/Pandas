@@ -45,11 +45,16 @@ pip install pandas matplotlib
 
 ```
 python analysis.py
+```bash
+python analysis.py
+```
+
 ---
 
 <img width="653" height="535" alt="Screenshot 2026-04-03 113257" src="https://github.com/user-attachments/assets/c192e71d-cb48-4a47-bce0-25bff3cba518" />
 
 ---
+
 ## 📊 Output
 
 * Cleaned dataset
@@ -73,6 +78,11 @@ python analysis.py
 Yashaswi Singh
 
 ---
+
+⭐ Acknowledgements  
+- Dataset provided by Kaggle  
+- Inspired by academic coursework and data analysis practice
+
 
 
 ⭐ Acknowledgements
